@@ -220,27 +220,8 @@ UI and UX are closely connected in the design process.
 
 ### UI/UX Design Flow
 
-```text
-User Research
-      ↓
-Identify User Needs
-      ↓
-UX Design
-      ↓
-Information Architecture
-      ↓
-User Flow
-      ↓
-Wireframe
-      ↓
-UI Design
-      ↓
-Prototype
-      ↓
-Usability Testing
-      ↓
-Final Product
-```
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/9ddf3651-5c63-482d-9ee4-7e22c9b64451" />
+
 
 ### Example – Login Page
 
