@@ -220,7 +220,7 @@ UI and UX are closely connected in the design process.
 
 ### UI/UX Design Flow
 
-<img width="1154" height="1236" alt="image" src="https://github.com/user-attachments/assets/9ddf3651-5c63-482d-9ee4-7e22c9b64451" />
+<img width="954" height="1036" alt="image" src="https://github.com/user-attachments/assets/9ddf3651-5c63-482d-9ee4-7e22c9b64451" />
 
 ### Example – Login Page
 
